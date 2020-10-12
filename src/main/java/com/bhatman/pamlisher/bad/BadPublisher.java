@@ -1,4 +1,4 @@
-package com.bhatman.publishker.publisher;
+package com.bhatman.pamlisher.bad;
 
 import org.reactivestreams.Publisher;
 import org.reactivestreams.Subscriber;
